@@ -1,11 +1,11 @@
 # SPEECH-RECOGNITION-SYSTEM
 
-**Company:** CODTECH IT SOLUTIONS
-**Name:** OMKAR GURAV
-**Intern ID:** CT04DG2476
-**Domain:** Embedded Systems
-**Duration:** 4 Weeks
-**Mentor:** NEELA SANTOSH
+**Company:** CODTECH IT SOLUTIONS    
+**Name:** OMKAR GURAV        
+**Intern ID:** CT04DG2476     
+**Domain:** Embedded Systems     
+**Duration:** 4 Weeks   
+**Mentor:** NEELA SANTOSH       
 
 ## Project Overview
 
