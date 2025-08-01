@@ -55,7 +55,9 @@ As part of a 4-week internship, the system shows the integration of **Bluetooth 
 ---
 
 ## Output Image
+<img width="1425" height="1027" alt="Image" src="https://github.com/user-attachments/assets/af2cabf0-e986-45fb-8b04-bdbf9b4b9361" />     
 
----
+<img width="1432" height="1022" alt="Image" src="https://github.com/user-attachments/assets/cad2813a-2054-4590-bc54-e78c9b6e73a4" />      
 
-> 💡 *This project represents a beginner-friendly implementation of smart home automation using voice and embedded systems.*
+<img width="1411" height="1037" alt="Image" src="https://github.com/user-attachments/assets/c7ce49fa-22da-4e37-9b35-bde1f3a1aa14" />      
+
